@@ -1,6 +1,6 @@
 # Portafolio del proyecto
 
-- link del proyecto: <a href="https://brayantorresa.github.io/AluraGeek-Ecommerce/" target="_blank">Ir a la tienda</a>
+- link del proyecto: <a href="https://angiegg22.github.io/Alura-Geek/" target="_blank">Ir a la tienda</a>
 
 
 ##  Tecnologias utilizadas:
